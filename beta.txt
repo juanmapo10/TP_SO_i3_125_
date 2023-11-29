@@ -21,3 +21,22 @@ Adaptador de Ethernet Ethernet 2:
    Puerta de enlace predeterminada . . . . . : 
 
 19:23 29/11/2023
+
+leon rodriguez
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.25.168.145  netmask 255.255.240.0  broadcast 172.25.175.255
+        inet6 fe80::215:5dff:fe32:8492  prefixlen 64  scopeid 0x20<link>
+        ether 00:15:5d:32:84:92  txqueuelen 1000  (Ethernet)
+        RX packets 440  bytes 254025 (254.0 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 189  bytes 20582 (20.5 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
