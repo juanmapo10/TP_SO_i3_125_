@@ -1,23 +1,23 @@
 Juan manuel portela
 Información de ipconfig:
 
-Configuraci�n IP de Windows
+Configuraci�n IP de Windows
 
 
 Adaptador de Ethernet Ethernet:
 
-   Sufijo DNS espec�fico para la conexi�n. . : fibertel.com.ar
-   V�nculo: direcci�n IPv6 local. . . : fe80::256b:f220:c6df:796%9
-   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.0.156
-   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec�fico para la conexi�n. . : fibertel.com.ar
+   V�nculo: direcci�n IPv6 local. . . : fe80::256b:f220:c6df:796%9
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.0.156
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
 
 Adaptador de Ethernet Ethernet 2:
 
-   Sufijo DNS espec�fico para la conexi�n. . : 
-   V�nculo: direcci�n IPv6 local. . . : fe80::468e:7cc9:f2d2:15d9%13
-   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.56.1
-   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::468e:7cc9:f2d2:15d9%13
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 
 
 19:23 29/11/2023
@@ -40,3 +40,45 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 0  bytes 0 (0.0 B)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+
+bautista escalante
+20:34
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . : home
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::b179:2046:ac35:4b34%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 15:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2803:9800:9081:8721:6779:5568:d3a4:2e5f
+   Dirección IPv6 temporal. . . . . . : 2803:9800:9081:8721:31c5:465e:cb95:e9e7
+   Dirección IPv6 temporal. . . . . . : 2803:9800:9081:8721:99ef:a92c:81ae:8393
+   Vínculo: dirección IPv6 local. . . : fe80::7c5b:a547:1bf7:de75%2
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.9
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%2
+                                       192.168.1.1
