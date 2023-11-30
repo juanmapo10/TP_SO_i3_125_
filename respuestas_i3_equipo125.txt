@@ -1,5 +1,5 @@
 a- ¿Cómo queda el master después de estos cambios?
-se pueden ver todos los cambios relizados por el grupo
+se pueden ver todos los cambios relizados por el grupo.
 
 b- ¿Beta pudo ver todos los cambios que se realizaron?
 si
