@@ -1,0 +1,10 @@
+a- ¿Cómo queda el master después de estos cambios?
+se pueden ver todos los cambios relizados por el grupo
+
+b- ¿Beta pudo ver todos los cambios que se realizaron?
+si
+
+c- ¿Qué debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+git checkout master
+git merge origin/potrela
+git push origin portela
